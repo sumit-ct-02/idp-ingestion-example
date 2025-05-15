@@ -6,7 +6,6 @@ metadata:
     annotations:
         backstage.io/techdocs-ref: dir:.
         github.com/project-slug: sumit-ct-02/idp-ingestion-example
-        devcontainers.io/url: https://github.com/sumit-ct-02/idp-ingestion-example/tree/main/.devcontainer/devcontainer.json
     tags:
         - devcontainers
   
