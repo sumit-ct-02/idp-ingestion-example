@@ -11,9 +11,4 @@ spec:
     type: service
     lifecycle: production
     owner: backstage-catalog-group 
-    coder:
-        templateName: "devcontainers"
-        mode: "auto"
-        params: 
-            repo: "idp-ingestion-example"
-            region: "none"
+  
