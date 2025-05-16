@@ -6,8 +6,6 @@ metadata:
     annotations:
         backstage.io/techdocs-ref: dir:.
         github.com/project-slug: sumit-ct-02/idp-ingestion-example
-    tags:
-        - devcontainers
   
 spec:
     type: service
