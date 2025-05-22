@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
     name: Python-app
-    description: A Python Library
+    description: Python-app
     annotations:
         backstage.io/techdocs-ref: dir:.
         github.com/project-slug: sumit-ct-02/idp-ingestion-example
